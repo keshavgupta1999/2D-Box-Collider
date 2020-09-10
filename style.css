@@ -1,0 +1,16 @@
+#paintbox{
+    height: 500px;
+    width: 500px;
+    border: dotted black 1px;
+    background-color: rgb(51, 221, 35);opacity:0.8;
+}
+
+body{
+    background-image: url('https://cdn4.vectorstock.com/i/1000x1000/01/23/forest-2d-game-landscape-for-games-mobile-vector-15800123.jpg');
+}
+p{
+    color:rgb(60, 60, 83);opacity:0.2);
+    font-weight: bold;
+    font-size: 50px;
+    font: italic small-caps bold  Georgia, serif;
+}
